@@ -1,4 +1,3 @@
 # Myproject
-In this repository I am trying to give every logical type program in python which can make somebody to learn too from that program who are beginners like me.
-moreover this also improve the way of thinking towards the logic of program.
+In this repository I am trying to give every logical type programs in python and in clanguage through which one can able to learn the logic and basic concepts in program if heis beginner at programming and wants to do some coding.
 Thats it!!!!
